@@ -22,3 +22,6 @@ env/
 
 # VS Code
 .vscode/
+
+*squarecloud.app
+*discloud.config
