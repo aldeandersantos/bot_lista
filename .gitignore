@@ -1,0 +1,24 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.env
+
+# Discord.py
+.env
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.env/
+.venv/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
